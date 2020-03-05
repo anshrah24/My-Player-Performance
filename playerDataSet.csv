@@ -1,0 +1,51 @@
+PlayerName,Date,MatchType,Oposition,TossWin,BowlingFirst,BatingFirst,HomeTeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MAtchesPerformance,Weather,pitch,Form(InOrOut),Order(battingBowlingOrder),performance
+BrendonMcCllum,17/02/2005,T20,Australia,yes,yes,no,NewZealand,good,good,good,hot,dry,in,1,36
+BrendonMcCllum,21/10/2005,T20,South Africa,yes,yes,no,SouthAfrica,bad,bad,average,sunny,hard,out,7,17
+BrendonMcCllum,16/02/2006,T20,West Indies,yes,,,NewZealand,average,bad,bad,sunny,green,out,8,4
+BrendonMcCllum,22/12/2006,T20,Sri Lanka,yes,yes,no,NewZealand,bad,bad,average,sunny,green,out,1,39
+BrendonMcCllum,26/12/2006,T20,Sri Lanka,yes,yes,no,NewZealand,average,bad,bad,overcast,green,out,1,28
+BrendonMcCllum,12/9/2007,T20,Kenya,yes,yes,no,none,average,bad,bad,hot,hard,out,2,16
+BrendonMcCllum,15/09/2007,T20,Sri Lanka,yes,no,yes,none,bad,bad,bad,sunny,dry,out,2,10
+BrendonMcCllum,16/09/2007,T20,India,no,no,yes,none,bad,bad,bad,overcast,green,out,2,45
+BrendonMcCllum,18/09/2007,T20,England,no,no,yes,none,average,bad,bad,sunny,green,out,2,4
+BrendonMcCllum,19/09/2007,T20,South Africa,no,no,yes,SouthAfrica,average,bad,bad,sunny,hard,out,2,38
+BrendonMcCllum,22/09/2007,T20,Pakistan,yes,no,yes,none,average,bad,bad,hot,dry,out,2,26
+BrendonMcCllum,23/11/2007,T20,South Africa,no,no,yes,none,average,bad,bad,hot,hard,out,2,9
+BrendonMcCllum,11/12/2007,T20,Australia,no,yes,no,Australia,bad,bad,bad,hot,green,out,2,13
+BrendonMcCllum,5/2/2008,T20,England,yes,yes,no,NewZealand,bad,bad,bad,overcast,green,out,2,9
+BrendonMcCllum,7/2/2008,T20,England,no,yes,no,NewZealand,bad,bad,bad,sunny,dry,out,2,5
+BrendonMcCllum,13/06/2008,T20,England,no,no,yes,England,bad,bad,bad,hot,hard,out,2,24
+BrendonMcCllum,26/12/2008,T20,West Indies,yes,no,yes,NewZealand,bad,bad,bad,overcast,hard,out,2,14
+BrendonMcCllum,28/12/2008,T20,West Indies,yes,no,yes,NewZealand,bad,bad,bad,overcast,green,out,2,59
+BrendonMcCllum,15/02/2009,T20,Australia,no,no,yes,Australia,average,bad,bad,overcast,green,out,1,61
+BrendonMcCllum,25/02/2009,T20,India,yes,yes,no,NewZealand,good,good,bad,hot,hard,in,2,56
+BrendonMcCllum,27/02/2009,T20,India,yes,yes,no,NewZealand,good,good,bad,hot,hard,in,2,69
+BrendonMcCllum,6/6/2009,T20,Scotland,yes,yes,no,none,good,good,average,sunny,dry,in,1,18
+BrendonMcCllum,9/6/2009,T20,South Africa,yes,yes,no,none,average,good,good,overcast,green,in,2,57
+BrendonMcCllum,11/6/2009,T20,Ireland,no,no,yes,NewZealand,average,good,good,hot,hard,in,1,10
+BrendonMcCllum,13/06/2009,T20,Pakistan,yes,no ,yes,none,average,good,good,sunny,hard,in,1,12
+BrendonMcCllum,16/06/2009,T20,Sri Lanka,no,yes,no,none,bad,bad,good,hot,dry,out,1,10
+BrendonMcCllum,2/9/2009,T20,Sri Lanka,yes,no,yes,SriLanka,bad,bad,good,hot,dry,out,1,9
+BrendonMcCllum,4/9/2009,T20,Sri Lanka,yes,no,yes,SriLanka,bad,bad,average,overcast,green,out,1,49
+BrendonMcCllum,12/11/2009,T20,Pakistan,yes,yes,no,Pakistan,average,bad,bad,overcast,green,out,1,19
+BrendonMcCllum,13/11/2009,T20,Pakistan,no,yes,no,Pakistan,average,bad,bad,hot,hot,out,1,47
+BrendonMcCllum,3/2/2010,T20,Bangladesh,no,yes,no,NewZealand,average,bad,bad,hot,dry,out,1,56
+BrendonMcCllum,26/02/2010,T20,Australia,yes,no,yes,NewZealand,good,good,bad,hot,dry,in,1,2
+BrendonMcCllum,28/02/2010,T20,Australia,yes,no ,yes,NewZealand,average,good,bad,overcast,green,in,1,116
+BrendonMcCllum,30/04/2010,T20,Sri Lanka,no,yes,no,none,average,good,average,overcast,green,in,1,0
+BrendonMcCllum,4/5/2010,T20,Zimbabwe,yes,yes,no,none,average,good,good,sunny,hard,in,1,22
+BrendonMcCllum,6/5/2010,T20,South Africa,no,yes,no,none,bad,good,good,sunny,dry,in,1,6
+BrendonMcCllum,8/5/2010,T20,Pakistan,no,no,yes,none,bad,good,good,hot,dry,in,1,33
+BrendonMcCllum,10/5/2010,T20,England,yes,no,yes,none,average,bad,good,hot,dry,out,1,33
+BrendonMcCllum,22/05/2010,T20,Sri Lanka,yes,no,yes,none,good,bad,good,sunny,dry,out,1,18
+BrendonMcCllum,23/05/2010,T20,Sri Lanka,yes,no,yes,none,average,bad,average,hot,hot,out,1,1
+BrendonMcCllum,15/10/2011,T20,Zimbabwe,yes,yes,no,Zimbabwe,bad,bad,bad,overcast,hot,out,1,81
+BrendonMcCllum,17/10/2011,T20,Zimbabwe,no,no,yes,Zimbabwe,average,bad,bad,overcast,green,out,1,64
+BrendonMcCllum,11/2/2012,T20,Zimbabwe,no,yes,no,NewZealand,good,good,bad,hot,green,in,3,0
+BrendonMcCllum,14/02/2012,T20,Zimbabwe,no,yes,no,NewZealand,average,good,bad,sunny,green,in,3,38
+BrendonMcCllum,17/02/2012,T20,South Africa,yes,yes,no,NewZealand,average,good,average,sunny,hard,in,3,16
+BrendonMcCllum,19/02/2012,T20,South Africa,no,no,yes,NewZealand,average,good,good,hot,hot,in,3,35
+BrendonMcCllum,22/02/2012,T20,South Africa,yes,yes,no,NewZealand,average,bad,good,hot,hot,out,3,18
+BrendonMcCllum,11/9/2012,T20,India,no,no,yes,India,average,bad,good,sunny,green,out,3,91
+BrendonMcCllum,21/09/2012,T20,Bangladesh,no,no,yes,none,average,bad,average,sunny,hot,out,3,123
+BrendonMcCllum,23/09/2012,T20,Pakistan,no,yes,no,none,good,good,bad,sunny,hot,in,3,32
